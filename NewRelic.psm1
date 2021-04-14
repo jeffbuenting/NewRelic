@@ -109,7 +109,7 @@ Function Get-NRServerMetricsNames {
     )
 
     Begin {
-        $APIkey = "1d62dc25a65b6c4a1cd1347e8db2a12c38843359a2af566"
+        $APIkey = 
     }
 
     Process {
